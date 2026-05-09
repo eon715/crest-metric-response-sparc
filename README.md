@@ -55,5 +55,18 @@ Data
 The benchmark is based on public SPARC rotation-curve mass models and galaxy metadata.
 SPARC source page:
 https://astroweb.cwru.edu/SPARC/⁠�
-Citation
-Citation information and DOI will be added after the first Zenodo release.
+## Citation
+
+If you use this repository, please cite:
+
+Ventress Kazan Seals II. *CREST Coherence-Weighted Metric Response: SPARC Benchmark*. GitHub/Zenodo release v1.0.0, 2026. DOI: 10.5281/zenodo.20097851
+
+```bibtex
+@misc{seals2026crest_sparc,
+  author       = {Seals, Ventress Kazan II},
+  title        = {{CREST Coherence-Weighted Metric Response: SPARC Benchmark}},
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.20097851}
+}
